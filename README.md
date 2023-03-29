@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliabass
+- 👋 Hi, I’m Ali Abass
 - 👀 I’m 20 Years Old
 - 🌱 I’m currently learning Software Engineering
 
