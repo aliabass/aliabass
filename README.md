@@ -3,7 +3,7 @@
 Hi there! I'm **Ali Abass**, a passionate Software Engineering student at Ben-Gurion University of the Negev (BGU) 🌟. I thrive on solving complex problems, learning new technologies, and contributing to impactful projects.
 
 ## 🚀 About Me
-- 🎓 **Education**: B.Sc. in Software Engineering @ BGU (2 semesters left)
+- 🎓 **Education**: B.Sc. in Software Engineering @ BGU
 - 🎯 **Objective**: Deliver high-quality solutions, excel as a team player, and continuously improve my skills
 - 🧠 Always curious and eager to embrace new challenges
 
